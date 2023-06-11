@@ -1,6 +1,6 @@
 # Calculadora do Motorista - App de Gestão Financeira para Motoristas de Aplicativo
 
-![Logo do Projeto](/assets/img/logo-com-fundo.png)
+![Logo do Projeto](/assets/img/logo-h.png)
 
 Calculadora do Motorista é um aplicativo de gestão financeira desenvolvido por João Valente para motoristas de aplicativo. Ele fornece uma maneira fácil e eficiente de controlar e analisar as finanças relacionadas à atividade de condução de aplicativos, permitindo que os motoristas acompanhem seus ganhos, despesas e lucros.
 
